@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12009526486",
+    "project_id": "ethioeshop",
+    "storage_bucket": "ethioeshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12009526486:android:db0059ce22cb8dce1f6577",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12009526486-s5q735ukj0njmelp9pq3hofoe5jrp5sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojrKwpHM_CxEbXyPRZHv_gtmVyAsCWGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12009526486-s5q735ukj0njmelp9pq3hofoe5jrp5sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
