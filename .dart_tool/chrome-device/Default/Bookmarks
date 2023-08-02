@@ -1,0 +1,59 @@
+{
+   "checksum": "99d582756f7d2c4be5bbec4b5007a2a6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13282687818371343",
+            "date_last_used": "0",
+            "guid": "656a7d09-c394-45d6-8c3b-f41a072fa385",
+            "id": "6",
+            "name": "Авиабилеты",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=518&clid=2337911-326&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13282687818368285",
+            "date_last_used": "0",
+            "guid": "3540b1f0-8b17-49ef-b759-a2e8ee0ceb8d",
+            "id": "7",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=518&clid=2337911-326&from=dist_bookmark"
+         } ],
+         "date_added": "13334775267491047",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13334775267491049",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334775267491056",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
